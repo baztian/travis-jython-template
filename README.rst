@@ -1,6 +1,9 @@
 Travis CI Jython template
 =========================
 
+.. image:: https://travis-ci.org/baztian/travis-jython-template.png?branch=master
+   :target: https://travis-ci.org/baztian/travis-jython-template
+
 `Travis CI <https://travis-ci.org/>`_ template to use Jython similar
 as to using a separate Python version. Currently Travis CI doesn't
 directly support Jython like other Python versions.
